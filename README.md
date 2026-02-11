@@ -19,3 +19,4 @@ If a change requires users to update their own code or migrations, it is a break
 - Commit Message: Use ! after the type or add BREAKING CHANGE: in the footer.
 - Example: feat!: overhaul database schema for v2
 - Result: v1.1.0 → 2.0.0
+
