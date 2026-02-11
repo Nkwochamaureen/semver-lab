@@ -14,7 +14,6 @@ To add a new feature that is backward-compatible, use the feat: prefix. This wil
 - Commit Message: feat: add user profile picture support
 - Result: v1.0.1 → 1.1.0
 
-
 ##  Breaking Change (Major Version)
 If a change requires users to update their own code or migrations, it is a breaking change.
 - Commit Message: Use ! after the type or add BREAKING CHANGE: in the footer.
